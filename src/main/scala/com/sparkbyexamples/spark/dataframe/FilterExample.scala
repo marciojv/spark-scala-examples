@@ -1,5 +1,3 @@
-package com.sparkbyexamples.spark.dataframe
-
 import org.apache.spark.sql.{Row, SparkSession}
 import org.apache.spark.sql.types.{ArrayType, StringType, StructType}
 import org.apache.spark.sql.functions.array_contains
